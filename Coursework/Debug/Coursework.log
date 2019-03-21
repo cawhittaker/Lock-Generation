@@ -1,0 +1,12 @@
+﻿  in_key.cpp
+c:\users\b8062133\advance coding c++\coursework\coursework\in_key.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  in_locked.cpp
+c:\users\b8062133\advance coding c++\coursework\coursework\in_locked.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  Locks_Matrix.cpp
+c:\users\b8062133\advance coding c++\coursework\coursework\locks_matrix.cpp(139): warning C4804: '<': unsafe use of type 'bool' in operation
+  Lock_vaildate.cpp
+c:\users\b8062133\advance coding c++\coursework\coursework\lock_vaildate.cpp(44): warning C4804: '<': unsafe use of type 'bool' in operation
+  Source.cpp
+c:\users\b8062133\advance coding c++\coursework\coursework\source.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Coursework.vcxproj -> C:\Users\b8062133\Advance Coding C++\Coursework\Debug\Coursework.exe
